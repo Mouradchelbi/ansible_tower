@@ -1,6 +1,6 @@
 - name: install apache2 
   remote_user: azureuser
-  hosts: 20.107.178.151
+  hosts: 68.219.121.22
   become: true 
   become_user: root 
   gather_facts: true 
